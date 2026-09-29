@@ -1,0 +1,352 @@
+[
+  {
+    "id": "Classic donut",
+    "name": "Classic Glazed",
+    "rarity": "Common",
+    "ability": "Vanilla Roll",
+    "description": "Reliable baseline movement and balance.",
+    "price": 0,
+    "speed": 1,
+    "jump": 1
+  },
+  {
+    "id": "Strawberry Frosted",
+    "name": "Strawberry Frosted",
+    "rarity": "Common",
+    "ability": "Vanilla Roll",
+    "description": "Sweet pink strawberry icing with smooth rolling physics.",
+    "price": 100,
+    "speed": 1,
+    "jump": 1
+  },
+  {
+    "id": "Chocolate Sprinkle",
+    "name": "Chocolate Sprinkle",
+    "rarity": "Common",
+    "ability": "Vanilla Roll",
+    "description": "Double chocolate fudge with sprinkle crunch.",
+    "price": 200,
+    "speed": 1,
+    "jump": 1
+  },
+  {
+    "id": "Cookie Crunch",
+    "name": "Cookie Crunch",
+    "rarity": "Uncommon",
+    "ability": "Vanilla Roll",
+    "description": "Crispy cookie coating with +8% speed.",
+    "price": 400,
+    "speed": 1.08,
+    "jump": 1.02
+  },
+  {
+    "id": "Blueberry Blast",
+    "name": "Blueberry Blast",
+    "rarity": "Uncommon",
+    "ability": "Vanilla Roll",
+    "description": "Wild berry glaze with snappy handling.",
+    "price": 550,
+    "speed": 1.08,
+    "jump": 1.02
+  },
+  {
+    "id": "Mint Swirl",
+    "name": "Mint Swirl",
+    "rarity": "Uncommon",
+    "ability": "Vanilla Roll",
+    "description": "Refreshing peppermint swirl.",
+    "price": 700,
+    "speed": 1.08,
+    "jump": 1.02
+  },
+  {
+    "id": "Galaxy Glaze",
+    "name": "Galaxy Glaze",
+    "rarity": "Rare",
+    "ability": "Glaze Magnet",
+    "description": "Pulls in all nearby coins within 15 studs.",
+    "price": 1200,
+    "speed": 1.15,
+    "jump": 1.05
+  },
+  {
+    "id": "Cotton Candy",
+    "name": "Cotton Candy",
+    "rarity": "Rare",
+    "ability": "Glaze Magnet",
+    "description": "Fluffy sugar field that draws in collectibles.",
+    "price": 1500,
+    "speed": 1.15,
+    "jump": 1.05
+  },
+  {
+    "id": "Rainbow sprinkle",
+    "name": "Party Rainbow",
+    "rarity": "Rare",
+    "ability": "Glaze Magnet",
+    "description": "High-energy sprinkles with collectible magnetism.",
+    "price": 1800,
+    "speed": 1.15,
+    "jump": 1.05
+  },
+  {
+    "id": "Frozen Crystal",
+    "name": "Frozen Crystal",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "Press Shift / Nitro button for +50% speed boost (8s CD).",
+    "price": 3500,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Neon Pulse",
+    "name": "Neon Pulse",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "Press Shift / Nitro button for +50% speed surge (8s CD).",
+    "price": 4200,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Lava Core",
+    "name": "Molten Lava Core",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "Volcanic heat nitro launch with fiery exhaust.",
+    "price": 5000,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Golden Crown",
+    "name": "24K Golden Crown",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "Press Space in mid-air to double jump across wide gaps (5s CD).",
+    "price": 12000,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Storm Bringer",
+    "name": "Storm Bringer",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "Lightning mid-air leap to jump over huge gaps (5s CD).",
+    "price": 15000,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Dragon Breath",
+    "name": "Dragon Breath",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "Dragon flame boost giving secondary mid-air leap (5s CD).",
+    "price": 18000,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Celestial halo",
+    "name": "Celestial Halo",
+    "rarity": "Mythic",
+    "ability": "Sugar Float",
+    "description": "Hold Space while falling to glide with -65% reduced gravity.",
+    "price": 30000,
+    "speed": 1.55,
+    "jump": 1.28
+  },
+  {
+    "id": "Void donut",
+    "name": "Void Horizon",
+    "rarity": "Mythic",
+    "ability": "Sugar Float",
+    "description": "Defies gravity: hold Space to glide long distances.",
+    "price": 35000,
+    "speed": 1.55,
+    "jump": 1.28
+  },
+  {
+    "id": "Sky king",
+    "name": "Sky King",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Absorbs 1 lethal hazard hit every 30s without resetting!",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Magic Crown",
+    "name": "Magic Crown",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Protects with a mystic shield absorbing 1 hazard hit.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Royal Donut",
+    "name": "Royal Donut Car",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Premium Tier 50 Royal Donut Car! Protects with a royal shield absorbing 1 hazard hit.",
+    "price": 0,
+    "speed": 2.1052631578947367,
+    "jump": 1.35
+  },
+  {
+    "id": "Universe",
+    "name": "Cosmic Universe",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Spacetime shield negating 1 hazard hit every 30s.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Rainbow",
+    "name": "Prismatic Rainbow",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Rainbow forcefield that absorbs 1 hazard death.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Star portal",
+    "name": "Star Portal",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "Dimensional shield absorbing 1 obstacle collision.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "King's Donut",
+    "name": "King's Donut",
+    "rarity": "Exclusive",
+    "ability": "Double Leap",
+    "description": "The permanent royal collection donut.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Motor Donut",
+    "name": "Motor Donut",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "A motor-powered wheel with a short speed surge.",
+    "price": 0,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Neon Glaze",
+    "name": "Neon Glaze",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "A bright neon wheel with a short speed surge.",
+    "price": 0,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Bat Storm",
+    "name": "Bat Storm",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "A storm-charged wheel with a secondary mid-air leap.",
+    "price": 0,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Shark Tail",
+    "name": "Shark Tail",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "A predatory shark wheel with a secondary mid-air leap.",
+    "price": 0,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Snow Wolf",
+    "name": "Snow Wolf",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "A crystalline winter wolf wheel with a secondary mid-air leap.",
+    "price": 0,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Ice Dragon",
+    "name": "Ice Dragon",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "A frozen dragon wheel with a secondary mid-air leap.",
+    "price": 0,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Maple Donut",
+    "name": "Maple Donut",
+    "rarity": "Epic",
+    "ability": "Sugar Nitro",
+    "description": "A limited maple wheel with a short speed surge.",
+    "price": 0,
+    "speed": 1.3,
+    "jump": 1.15
+  },
+  {
+    "id": "Maple Crown Donut",
+    "name": "Maple Crown Donut",
+    "rarity": "Legendary",
+    "ability": "Double Leap",
+    "description": "A limited royal maple wheel with a secondary leap.",
+    "price": 0,
+    "speed": 1.5,
+    "jump": 1.25
+  },
+  {
+    "id": "Flying Maple Monarch Donut",
+    "name": "Flying Maple Monarch Donut",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "A limited flying monarch wheel with a protective shield.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Ultimate Autumn King Donut",
+    "name": "Ultimate Autumn King Donut",
+    "rarity": "Exclusive",
+    "ability": "Glaze Shield",
+    "description": "The rarest limited autumn wheel with a protective shield.",
+    "price": 0,
+    "speed": 1.6,
+    "jump": 1.3
+  },
+  {
+    "id": "Lava Egg",
+    "name": "Lava Egg",
+    "rarity": "Mythic",
+    "ability": "Sugar Float",
+    "description": "A Wins Shop lava egg with a steady glide and a non-spinning chick companion.",
+    "price": 0,
+    "speed": 1.57,
+    "jump": 1.25
+  }
+]

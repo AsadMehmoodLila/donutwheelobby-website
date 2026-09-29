@@ -1,0 +1,902 @@
+[
+  {
+    "id": "AURA_001",
+    "name": "Dustline",
+    "sourcePrice": 100,
+    "rarity": "Common",
+    "description": "A clean dusty wake for your donut.",
+    "image": "assets/auras/aura-001.webp",
+    "price": 10000
+  },
+  {
+    "id": "AURA_002",
+    "name": "Breeze Thread",
+    "sourcePrice": 110,
+    "rarity": "Common",
+    "description": "A narrow, soft wind ribbon trailing behind your wheel.",
+    "image": "assets/auras/aura-002.webp",
+    "price": 11400
+  },
+  {
+    "id": "AURA_003",
+    "name": "Bubble Hop",
+    "sourcePrice": 120,
+    "rarity": "Common",
+    "description": "Tiny buoyant bubbles released from ground contact.",
+    "image": "assets/auras/aura-003.webp",
+    "price": 13000
+  },
+  {
+    "id": "AURA_004",
+    "name": "Sprinkle Wake",
+    "sourcePrice": 120,
+    "rarity": "Common",
+    "description": "Delightful colorful sprinkles falling from your tire.",
+    "image": "assets/auras/aura-004.webp",
+    "price": 14800
+  },
+  {
+    "id": "AURA_005",
+    "name": "Leaf Drift",
+    "sourcePrice": 130,
+    "rarity": "Common",
+    "description": "Gentle forest leaves tumbling in your slipstream.",
+    "image": "assets/auras/aura-005.webp",
+    "price": 16900
+  },
+  {
+    "id": "AURA_006",
+    "name": "Aqua Ribbon",
+    "sourcePrice": 140,
+    "rarity": "Common",
+    "description": "A clean stream of pure azure water following your run.",
+    "image": "assets/auras/aura-006.webp",
+    "price": 19400
+  },
+  {
+    "id": "AURA_007",
+    "name": "Snow Puff",
+    "sourcePrice": 150,
+    "rarity": "Common",
+    "description": "Miniature frost puffs kicking up as the wheel touches down.",
+    "image": "assets/auras/aura-007.webp",
+    "price": 22100
+  },
+  {
+    "id": "AURA_008",
+    "name": "Sparkstep",
+    "sourcePrice": 160,
+    "rarity": "Common",
+    "description": "Crisp, crackling yellow sparks generated from high wheel friction.",
+    "image": "assets/auras/aura-008.webp",
+    "price": 25200
+  },
+  {
+    "id": "AURA_009",
+    "name": "Cloudtail",
+    "sourcePrice": 160,
+    "rarity": "Common",
+    "description": "Soft rolling cumulus mist that pillows behind your movement.",
+    "image": "assets/auras/aura-009.webp",
+    "price": 28800
+  },
+  {
+    "id": "AURA_010",
+    "name": "Petal Path",
+    "sourcePrice": 170,
+    "rarity": "Common",
+    "description": "Fragrant pink flower petals drifting gracefully from the tread.",
+    "image": "assets/auras/aura-010.webp",
+    "price": 32900
+  },
+  {
+    "id": "AURA_011",
+    "name": "Citrus Fizz",
+    "sourcePrice": 180,
+    "rarity": "Common",
+    "description": "Effervescent orange and lime micro-bubbles popping at your heels.",
+    "image": "assets/auras/aura-011.webp",
+    "price": 37600
+  },
+  {
+    "id": "AURA_012",
+    "name": "Star Crumbs",
+    "sourcePrice": 190,
+    "rarity": "Common",
+    "description": "Tiny celestial sparkles sprinkled in a trail behind your donut.",
+    "image": "assets/auras/aura-012.webp",
+    "price": 42900
+  },
+  {
+    "id": "AURA_013",
+    "name": "Mint Mist",
+    "sourcePrice": 200,
+    "rarity": "Common",
+    "description": "A refreshing, ultra-soft mint-green vapor wake.",
+    "image": "assets/auras/aura-013.webp",
+    "price": 49000
+  },
+  {
+    "id": "AURA_014",
+    "name": "Ember Flicker",
+    "sourcePrice": 200,
+    "rarity": "Common",
+    "description": "Glowing orange embers rising and peeling away from the wheel.",
+    "image": "assets/auras/aura-014.webp",
+    "price": 56000
+  },
+  {
+    "id": "AURA_015",
+    "name": "Pixel Dust",
+    "sourcePrice": 210,
+    "rarity": "Common",
+    "description": "Crisp square digital fragments dropping cleanly away from your run.",
+    "image": "assets/auras/aura-015.webp",
+    "price": 63900
+  },
+  {
+    "id": "AURA_016",
+    "name": "Rainbow Thread",
+    "sourcePrice": 220,
+    "rarity": "Common",
+    "description": "A single, razor-thin luminous rainbow ribbon wake.",
+    "image": "assets/auras/aura-016.webp",
+    "price": 73000
+  },
+  {
+    "id": "AURA_017",
+    "name": "Autumn Rush",
+    "sourcePrice": 500,
+    "rarity": "Uncommon",
+    "description": "Warm autumn ribbon accompanied by drifting leaves.",
+    "image": "assets/auras/aura-017.webp",
+    "price": 83300
+  },
+  {
+    "id": "AURA_018",
+    "name": "Frostline",
+    "sourcePrice": 540,
+    "rarity": "Uncommon",
+    "description": "Chilled crystal ribbon with subtle sparkling diamond glitter.",
+    "image": "assets/auras/aura-018.webp",
+    "price": 95100
+  },
+  {
+    "id": "AURA_019",
+    "name": "Tidecurl",
+    "sourcePrice": 580,
+    "rarity": "Uncommon",
+    "description": "Swirling tidal ribbon wake accompanied by aquatic bubbles.",
+    "image": "assets/auras/aura-019.webp",
+    "price": 108600
+  },
+  {
+    "id": "AURA_020",
+    "name": "Heartbeat Trail",
+    "sourcePrice": 620,
+    "rarity": "Uncommon",
+    "description": "Rhythmic pulsating pink ribbon accompanied by floating heart motes.",
+    "image": "assets/auras/aura-020.webp",
+    "price": 124000
+  },
+  {
+    "id": "AURA_021",
+    "name": "Static Snap",
+    "sourcePrice": 660,
+    "rarity": "Uncommon",
+    "description": "Short jagged electric arcs that snap backward with speed.",
+    "image": "assets/auras/aura-021.webp",
+    "price": 141600
+  },
+  {
+    "id": "AURA_022",
+    "name": "Toxic Drip",
+    "sourcePrice": 700,
+    "rarity": "Uncommon",
+    "description": "Corrosive neon-green vapor with caustic droplets dripping downward.",
+    "image": "assets/auras/aura-022.webp",
+    "price": 161700
+  },
+  {
+    "id": "AURA_023",
+    "name": "Sakura Stream",
+    "sourcePrice": 740,
+    "rarity": "Uncommon",
+    "description": "Flowing cherry blossom ribbon carrying spiral petals in its wake.",
+    "image": "assets/auras/aura-023.webp",
+    "price": 184600
+  },
+  {
+    "id": "AURA_024",
+    "name": "Honeycomb Wake",
+    "sourcePrice": 780,
+    "rarity": "Uncommon",
+    "description": "Geometric golden hex pattern streaming behind your rolling tire.",
+    "image": "assets/auras/aura-024.webp",
+    "price": 210800
+  },
+  {
+    "id": "AURA_025",
+    "name": "Moon Dust",
+    "sourcePrice": 820,
+    "rarity": "Uncommon",
+    "description": "Midnight-blue stardust trail carrying miniature lunar crescents.",
+    "image": "assets/auras/aura-025.webp",
+    "price": 240700
+  },
+  {
+    "id": "AURA_026",
+    "name": "Sunbeam Streak",
+    "sourcePrice": 860,
+    "rarity": "Uncommon",
+    "description": "Radiant golden sunlight beam flowing with brilliant solar flares.",
+    "image": "assets/auras/aura-026.webp",
+    "price": 274800
+  },
+  {
+    "id": "AURA_027",
+    "name": "Candy Comet",
+    "sourcePrice": 900,
+    "rarity": "Uncommon",
+    "description": "Pastel comet profile with sugary confectionery stars peeling away.",
+    "image": "assets/auras/aura-027.webp",
+    "price": 313800
+  },
+  {
+    "id": "AURA_028",
+    "name": "Emerald Glide",
+    "sourcePrice": 940,
+    "rarity": "Uncommon",
+    "description": "Polished emerald jewel ribbon accented with pristine facets.",
+    "image": "assets/auras/aura-028.webp",
+    "price": 358300
+  },
+  {
+    "id": "AURA_029",
+    "name": "Ruby Rush",
+    "sourcePrice": 980,
+    "rarity": "Uncommon",
+    "description": "Aggressive crimson gemstone wake with sharp crystalline sparks.",
+    "image": "assets/auras/aura-029.webp",
+    "price": 409100
+  },
+  {
+    "id": "AURA_030",
+    "name": "Neon Circuit",
+    "sourcePrice": 1020,
+    "rarity": "Uncommon",
+    "description": "Scrolling cybernetic motherboard circuitry glowing in cyan and magenta.",
+    "image": "assets/auras/aura-030.webp",
+    "price": 467000
+  },
+  {
+    "id": "AURA_031",
+    "name": "Ghost Wisp",
+    "sourcePrice": 1060,
+    "rarity": "Uncommon",
+    "description": "Supernatural pale cyan soul wisps drifting upwards from the wheel.",
+    "image": "assets/auras/aura-031.webp",
+    "price": 533200
+  },
+  {
+    "id": "AURA_032",
+    "name": "Magma Track",
+    "sourcePrice": 1100,
+    "rarity": "Uncommon",
+    "description": "Molten scorching ground ribbon leaving glowing lava contact sparks.",
+    "image": "assets/auras/aura-032.webp",
+    "price": 608800
+  },
+  {
+    "id": "AURA_033",
+    "name": "Thunderline",
+    "sourcePrice": 1140,
+    "rarity": "Uncommon",
+    "description": "Rapidly cycling lightning stream flashing in high-voltage blue and white.",
+    "image": "assets/auras/aura-033.webp",
+    "price": 695100
+  },
+  {
+    "id": "AURA_034",
+    "name": "Prism Wake",
+    "sourcePrice": 1180,
+    "rarity": "Uncommon",
+    "description": "Polished refractive crystal stream leaving pure white prismatic glints.",
+    "image": "assets/auras/aura-034.webp",
+    "price": 793700
+  },
+  {
+    "id": "AURA_035",
+    "name": "Blizzard Edge",
+    "sourcePrice": 1500,
+    "rarity": "Rare",
+    "description": "Crystalline wheel rim frost with crisp ground snow spray.",
+    "image": "assets/auras/aura-035.webp",
+    "price": 906100
+  },
+  {
+    "id": "AURA_036",
+    "name": "Inferno Wake",
+    "sourcePrice": 1620,
+    "rarity": "Rare",
+    "description": "Dynamic rolling fire wake that stretches backward with rising embers.",
+    "image": "assets/auras/aura-036.webp",
+    "price": 1034600
+  },
+  {
+    "id": "AURA_037",
+    "name": "Stormcoil",
+    "sourcePrice": 1740,
+    "rarity": "Rare",
+    "description": "High-voltage electricity crawling dynamically around the donut rim.",
+    "image": "assets/auras/aura-037.webp",
+    "price": 1181200
+  },
+  {
+    "id": "AURA_038",
+    "name": "Coral Current",
+    "sourcePrice": 1860,
+    "rarity": "Rare",
+    "description": "Turquoise ocean wake curled with tropical coral-pink foam motes.",
+    "image": "assets/auras/aura-038.webp",
+    "price": 1348700
+  },
+  {
+    "id": "AURA_039",
+    "name": "Aurora Drift",
+    "sourcePrice": 1980,
+    "rarity": "Rare",
+    "description": "Translucent multicolor aurora veil flowing gently with celestial stars.",
+    "image": "assets/auras/aura-039.webp",
+    "price": 1539800
+  },
+  {
+    "id": "AURA_040",
+    "name": "Cyber Pulse",
+    "sourcePrice": 2100,
+    "rarity": "Rare",
+    "description": "Segmented neon energy pulses travelling backward in synchronized rhythm.",
+    "image": "assets/auras/aura-040.webp",
+    "price": 1758100
+  },
+  {
+    "id": "AURA_041",
+    "name": "Glitchline",
+    "sourcePrice": 2220,
+    "rarity": "Rare",
+    "description": "Stuttering broken digital pixel wake with visual chromatic tearing.",
+    "image": "assets/auras/aura-041.webp",
+    "price": 2007300
+  },
+  {
+    "id": "AURA_042",
+    "name": "Arcane Sigil",
+    "sourcePrice": 2340,
+    "rarity": "Rare",
+    "description": "Luminous runic glyphs stamped rhythmically onto the ground below.",
+    "image": "assets/auras/aura-042.webp",
+    "price": 2291800
+  },
+  {
+    "id": "AURA_043",
+    "name": "Phantom Chain",
+    "sourcePrice": 2460,
+    "rarity": "Rare",
+    "description": "Ethereal translucent chain links scrolling in a spectral wake.",
+    "image": "assets/auras/aura-043.webp",
+    "price": 2616600
+  },
+  {
+    "id": "AURA_044",
+    "name": "Dragon Ember",
+    "sourcePrice": 2580,
+    "rarity": "Rare",
+    "description": "Dragon-scale shaped embers peeling backward with fiery intensity.",
+    "image": "assets/auras/aura-044.webp",
+    "price": 2987500
+  },
+  {
+    "id": "AURA_045",
+    "name": "Royal Gleam",
+    "sourcePrice": 2700,
+    "rarity": "Rare",
+    "description": "Regal imperial purple and gold ribbon with crown-like spark bursts.",
+    "image": "assets/auras/aura-045.webp",
+    "price": 3410900
+  },
+  {
+    "id": "AURA_046",
+    "name": "Diamond Shatter",
+    "sourcePrice": 2820,
+    "rarity": "Rare",
+    "description": "Explosive crystalline shards bursting outward with each tire contact.",
+    "image": "assets/auras/aura-046.webp",
+    "price": 3894400
+  },
+  {
+    "id": "AURA_047",
+    "name": "Black Ice",
+    "sourcePrice": 2940,
+    "rarity": "Rare",
+    "description": "Glossy dark-cyan midnight ice ribbon with frosted rim shimmer.",
+    "image": "assets/auras/aura-047.webp",
+    "price": 4446300
+  },
+  {
+    "id": "AURA_048",
+    "name": "Solar Rush",
+    "sourcePrice": 3060,
+    "rarity": "Rare",
+    "description": "Intense solar radiation wake with reactive coronal flares at speed.",
+    "image": "assets/auras/aura-048.webp",
+    "price": 5076500
+  },
+  {
+    "id": "AURA_049",
+    "name": "Lunar Tide",
+    "sourcePrice": 3180,
+    "rarity": "Rare",
+    "description": "Flowing silver-blue aquatic swell accompanied by shimmering moon motes.",
+    "image": "assets/auras/aura-049.webp",
+    "price": 5796100
+  },
+  {
+    "id": "AURA_050",
+    "name": "Toxic Reactor",
+    "sourcePrice": 3300,
+    "rarity": "Rare",
+    "description": "Contained pulsating hazardous lime core inside the donut axle hole.",
+    "image": "assets/auras/aura-050.webp",
+    "price": 6617600
+  },
+  {
+    "id": "AURA_051",
+    "name": "Pixel Overdrive",
+    "sourcePrice": 3420,
+    "rarity": "Rare",
+    "description": "High-speed cyber grid wake with elongated speed blocks.",
+    "image": "assets/auras/aura-051.webp",
+    "price": 7555500
+  },
+  {
+    "id": "AURA_052",
+    "name": "Sakura Tempest",
+    "sourcePrice": 3540,
+    "rarity": "Rare",
+    "description": "A vortex of pink petals spiraling around the wheel before shedding backward.",
+    "image": "assets/auras/aura-052.webp",
+    "price": 8626400
+  },
+  {
+    "id": "AURA_053",
+    "name": "Thunder Halo",
+    "sourcePrice": 3660,
+    "rarity": "Rare",
+    "description": "Electric halo rim encircling the wheel with high-speed ground lightning bolts.",
+    "image": "assets/auras/aura-053.webp",
+    "price": 9849100
+  },
+  {
+    "id": "AURA_054",
+    "name": "Nebula Stream",
+    "sourcePrice": 3780,
+    "rarity": "Rare",
+    "description": "Deep interstellar cosmic mist leaving brilliant star glints in its wake.",
+    "image": "assets/auras/aura-054.webp",
+    "price": 11245100
+  },
+  {
+    "id": "AURA_055",
+    "name": "Volcanic Crown",
+    "sourcePrice": 4000,
+    "rarity": "Epic",
+    "description": "Molten magma rim, rising volcanic smoke, and contact sparks.",
+    "image": "assets/auras/aura-055.webp",
+    "price": 12838900
+  },
+  {
+    "id": "AURA_056",
+    "name": "Frozen Orbit",
+    "sourcePrice": 4320,
+    "rarity": "Epic",
+    "description": "Glacial frost halo with geometric snowflakes orbiting the stable axle.",
+    "image": "assets/auras/aura-056.webp",
+    "price": 14658600
+  },
+  {
+    "id": "AURA_057",
+    "name": "Tempest Ring",
+    "sourcePrice": 4640,
+    "rarity": "Epic",
+    "description": "Whirling stormcloud vortex encircling the donut with miniature lightning arcs.",
+    "image": "assets/auras/aura-057.webp",
+    "price": 16736300
+  },
+  {
+    "id": "AURA_058",
+    "name": "Void Ripple",
+    "sourcePrice": 4960,
+    "rarity": "Epic",
+    "description": "Hypnotic purple-black gravitational ripples pulsing from the donut axle hole.",
+    "image": "assets/auras/aura-058.webp",
+    "price": 19108400
+  },
+  {
+    "id": "AURA_059",
+    "name": "Spirit Lanterns",
+    "sourcePrice": 5280,
+    "rarity": "Epic",
+    "description": "Luminescent teal spirit orbs revolving peacefully around the rolling donut.",
+    "image": "assets/auras/aura-059.webp",
+    "price": 21816700
+  },
+  {
+    "id": "AURA_060",
+    "name": "Crystal Bloom",
+    "sourcePrice": 5600,
+    "rarity": "Epic",
+    "description": "Brilliant prismatic crystals fanning outward in floral symmetry upon movement.",
+    "image": "assets/auras/aura-060.webp",
+    "price": 24908900
+  },
+  {
+    "id": "AURA_061",
+    "name": "Neon Overdrive",
+    "sourcePrice": 5920,
+    "rarity": "Epic",
+    "description": "Dual pulsing cyan and magenta light rails trailing behind the wheel.",
+    "image": "assets/auras/aura-061.webp",
+    "price": 28439400
+  },
+  {
+    "id": "AURA_062",
+    "name": "Blood Moon",
+    "sourcePrice": 6240,
+    "rarity": "Epic",
+    "description": "Crimson lunar disc glowing inside the donut ring with a shadow wake.",
+    "image": "assets/auras/aura-062.webp",
+    "price": 32470300
+  },
+  {
+    "id": "AURA_063",
+    "name": "Tidal Serpent",
+    "sourcePrice": 6560,
+    "rarity": "Epic",
+    "description": "Sinuous aqua energy beam snaking like a living ocean current.",
+    "image": "assets/auras/aura-063.webp",
+    "price": 37072500
+  },
+  {
+    "id": "AURA_064",
+    "name": "Golden Seraph",
+    "sourcePrice": 6880,
+    "rarity": "Epic",
+    "description": "White-gold angelic feather streaks and subtle luminescent rim glow.",
+    "image": "assets/auras/aura-064.webp",
+    "price": 42326900
+  },
+  {
+    "id": "AURA_065",
+    "name": "Plasma Rift",
+    "sourcePrice": 7200,
+    "rarity": "Epic",
+    "description": "Fierce magenta-cyan dimensional tear wake with high-energy crackles.",
+    "image": "assets/auras/aura-065.webp",
+    "price": 48326100
+  },
+  {
+    "id": "AURA_066",
+    "name": "Witchlight",
+    "sourcePrice": 7520,
+    "rarity": "Epic",
+    "description": "Green-violet arcane witchfire trailing upward with floating runic glyphs.",
+    "image": "assets/auras/aura-066.webp",
+    "price": 55175700
+  },
+  {
+    "id": "AURA_067",
+    "name": "Dragonstorm",
+    "sourcePrice": 7840,
+    "rarity": "Epic",
+    "description": "Blazing red-gold dragon embers combined with crackling lightning arcs.",
+    "image": "assets/auras/aura-067.webp",
+    "price": 62996000
+  },
+  {
+    "id": "AURA_068",
+    "name": "Royal Inferno",
+    "sourcePrice": 8160,
+    "rarity": "Epic",
+    "description": "Majestic violet and gold flame ribbon with aristocratic embers.",
+    "image": "assets/auras/aura-068.webp",
+    "price": 71924800
+  },
+  {
+    "id": "AURA_069",
+    "name": "Eclipse Wake",
+    "sourcePrice": 8480,
+    "rarity": "Epic",
+    "description": "Rhythmic black-gold crescent pulses streaming from an inner solar eclipse.",
+    "image": "assets/auras/aura-069.webp",
+    "price": 82119000
+  },
+  {
+    "id": "AURA_070",
+    "name": "Galaxy Spiral",
+    "sourcePrice": 8800,
+    "rarity": "Epic",
+    "description": "Spiral cosmic stars orbiting the donut body with a swirling nebula trail.",
+    "image": "assets/auras/aura-070.webp",
+    "price": 93758200
+  },
+  {
+    "id": "AURA_071",
+    "name": "Chrono Fracture",
+    "sourcePrice": 9120,
+    "rarity": "Epic",
+    "description": "Luminous temporal clock sigils and expanding time dilation echo rings.",
+    "image": "assets/auras/aura-071.webp",
+    "price": 107047000
+  },
+  {
+    "id": "AURA_072",
+    "name": "Prismatic Surge",
+    "sourcePrice": 9440,
+    "rarity": "Epic",
+    "description": "Flowing spectrum rainbow ribbon wake paired with sparkling crystal facets.",
+    "image": "assets/auras/aura-072.webp",
+    "price": 122219300
+  },
+  {
+    "id": "AURA_073",
+    "name": "Phoenix Rebirth",
+    "sourcePrice": 10000,
+    "rarity": "Legendary",
+    "description": "Feather flame wake with periodic rebirth flame burst.",
+    "image": "assets/auras/aura-073.webp",
+    "price": 139542100
+  },
+  {
+    "id": "AURA_074",
+    "name": "Abyssal Halo",
+    "sourcePrice": 10800,
+    "rarity": "Legendary",
+    "description": "Deep-sea void halo pulling dark ethereal wisps inward into the center.",
+    "image": "assets/auras/aura-074.webp",
+    "price": 159320100
+  },
+  {
+    "id": "AURA_075",
+    "name": "Celestial Garden",
+    "sourcePrice": 11600,
+    "rarity": "Legendary",
+    "description": "Luminescent flowers and starlight motes orbiting gently in a celestial canopy.",
+    "image": "assets/auras/aura-075.webp",
+    "price": 181901400
+  },
+  {
+    "id": "AURA_076",
+    "name": "Storm Sovereign",
+    "sourcePrice": 12400,
+    "rarity": "Legendary",
+    "description": "Three synchronized thunder zones: charged rim arcs, storm wake, and ground strike bolts.",
+    "image": "assets/auras/aura-076.webp",
+    "price": 207683200
+  },
+  {
+    "id": "AURA_077",
+    "name": "Solar Dominion",
+    "sourcePrice": 13200,
+    "rarity": "Legendary",
+    "description": "Blazing solar corona radiating from the rim with roaring sunbeam wakes.",
+    "image": "assets/auras/aura-077.webp",
+    "price": 237119200
+  },
+  {
+    "id": "AURA_078",
+    "name": "Lunar Cathedral",
+    "sourcePrice": 14000,
+    "rarity": "Legendary",
+    "description": "Luminous silver-blue Gothic arch sigils echoing gracefully behind the wheel.",
+    "image": "assets/auras/aura-078.webp",
+    "price": 270727400
+  },
+  {
+    "id": "AURA_079",
+    "name": "Techno Singularity",
+    "sourcePrice": 14800,
+    "rarity": "Legendary",
+    "description": "High-tech cyan grid rim with a digital pixel vortex accelerating in the donut hole.",
+    "image": "assets/auras/aura-079.webp",
+    "price": 309098900
+  },
+  {
+    "id": "AURA_080",
+    "name": "Dragon Emperor",
+    "sourcePrice": 15600,
+    "rarity": "Legendary",
+    "description": "Crimson imperial dragon scales sweeping backward with royal gold rim sparks.",
+    "image": "assets/auras/aura-080.webp",
+    "price": 352909100
+  },
+  {
+    "id": "AURA_081",
+    "name": "Crown of Stars",
+    "sourcePrice": 16400,
+    "rarity": "Legendary",
+    "description": "Luminous golden stars orbiting in a majestic coronal crown above the wheel.",
+    "image": "assets/auras/aura-081.webp",
+    "price": 402928700
+  },
+  {
+    "id": "AURA_082",
+    "name": "Void Monarch",
+    "sourcePrice": 17200,
+    "rarity": "Legendary",
+    "description": "Deep purple-black void vortex paired with sparse, regal gold crown motes.",
+    "image": "assets/auras/aura-082.webp",
+    "price": 460037900
+  },
+  {
+    "id": "AURA_083",
+    "name": "Heavenfall",
+    "sourcePrice": 18000,
+    "rarity": "Legendary",
+    "description": "Transcendent vertical light pillars with cascading angelic feather plumes.",
+    "image": "assets/auras/aura-083.webp",
+    "price": 525241400
+  },
+  {
+    "id": "AURA_084",
+    "name": "Reality Break",
+    "sourcePrice": 18800,
+    "rarity": "Legendary",
+    "description": "Fractured prismatic glass streaks and dimensional reality tearing anomalies.",
+    "image": "assets/auras/aura-084.webp",
+    "price": 599686600
+  },
+  {
+    "id": "AURA_085",
+    "name": "Supernova Engine",
+    "sourcePrice": 25000,
+    "rarity": "Mythic",
+    "description": "Radiant inner star core driving twin cosmic plasma beams.",
+    "image": "assets/auras/aura-085.webp",
+    "price": 684683200
+  },
+  {
+    "id": "AURA_086",
+    "name": "Seraphim Drive",
+    "sourcePrice": 27000,
+    "rarity": "Mythic",
+    "description": "Twin holy halo rings coupled with high-velocity angelic feather wings.",
+    "image": "assets/auras/aura-086.webp",
+    "price": 781726800
+  },
+  {
+    "id": "AURA_087",
+    "name": "Chaos Bloom",
+    "sourcePrice": 29000,
+    "rarity": "Mythic",
+    "description": "Dark chaotic core radiating unstable fractal petals and violet flares.",
+    "image": "assets/auras/aura-087.webp",
+    "price": 892525000
+  },
+  {
+    "id": "AURA_088",
+    "name": "Black Hole Crown",
+    "sourcePrice": 31000,
+    "rarity": "Mythic",
+    "description": "Singularity black hole in the center with a roaring golden accretion disk rim.",
+    "image": "assets/auras/aura-088.webp",
+    "price": 1019027100
+  },
+  {
+    "id": "AURA_089",
+    "name": "Worldtree Ascension",
+    "sourcePrice": 33000,
+    "rarity": "Mythic",
+    "description": "Luminous emerald vine spirals ascending with celestial golden leaves and spores.",
+    "image": "assets/auras/aura-089.webp",
+    "price": 1163459000
+  },
+  {
+    "id": "AURA_090",
+    "name": "Temporal Collapse",
+    "sourcePrice": 35000,
+    "rarity": "Mythic",
+    "description": "Reversed chronological flow with expanding clock sigils and time echo rings.",
+    "image": "assets/auras/aura-090.webp",
+    "price": 1328362000
+  },
+  {
+    "id": "AURA_091",
+    "name": "Astral Dragon",
+    "sourcePrice": 37000,
+    "rarity": "Mythic",
+    "description": "Twin sinuous stellar comet streams orbiting in a perpetual draconic dance.",
+    "image": "assets/auras/aura-091.webp",
+    "price": 1516637600
+  },
+  {
+    "id": "AURA_092",
+    "name": "Prismatic Throne",
+    "sourcePrice": 39000,
+    "rarity": "Mythic",
+    "description": "Four radiating prismatic sovereign rays with brilliant diamond starlight.",
+    "image": "assets/auras/aura-092.webp",
+    "price": 1731598300
+  },
+  {
+    "id": "AURA_093",
+    "name": "Genesis Wheel",
+    "sourcePrice": 60000,
+    "rarity": "Celestial",
+    "description": "Concentric celestial wave pulses expanding in synchronized rhythm.",
+    "image": "assets/auras/aura-093.webp",
+    "price": 1977026600
+  },
+  {
+    "id": "AURA_094",
+    "name": "Event Horizon",
+    "sourcePrice": 64800,
+    "rarity": "Celestial",
+    "description": "Absolute void core bordered by superheated solar gold accretion energy arcs.",
+    "image": "assets/auras/aura-094.webp",
+    "price": 2257240700
+  },
+  {
+    "id": "AURA_095",
+    "name": "Heaven's Circuit",
+    "sourcePrice": 69600,
+    "rarity": "Celestial",
+    "description": "Sacred algorithmic circuitry sigils interlinked by holy luminescent data rails.",
+    "image": "assets/auras/aura-095.webp",
+    "price": 2577171000
+  },
+  {
+    "id": "AURA_096",
+    "name": "Starforge Ascendant",
+    "sourcePrice": 74400,
+    "rarity": "Celestial",
+    "description": "Molten star-metal rim radiating cosmic constellation lines and stellar forge sparks.",
+    "image": "assets/auras/aura-096.webp",
+    "price": 2942446600
+  },
+  {
+    "id": "AURA_097",
+    "name": "Cosmic Crown",
+    "sourcePrice": 79200,
+    "rarity": "Celestial",
+    "description": "Magnificent multi-layered nebula halo, ordered stellar constellations, and royal gold arcs.",
+    "image": "assets/auras/aura-097.webp",
+    "price": 3359494500
+  },
+  {
+    "id": "AURA_098",
+    "name": "Infinity Halo",
+    "sourcePrice": 120000,
+    "rarity": "Divine",
+    "description": "Twin counter-rotating luminous infinity loops around the wheel.",
+    "image": "assets/auras/aura-098.webp",
+    "price": 3835652800
+  },
+  {
+    "id": "AURA_099",
+    "name": "Creation Engine",
+    "sourcePrice": 129600,
+    "rarity": "Divine",
+    "description": "Radiant central creation singularity with six synchronized orbital nodes and breathing pulse rings.",
+    "image": "assets/auras/aura-099.webp",
+    "price": 4379299500
+  },
+  {
+    "id": "AURA_100",
+    "name": "Wheel of Creation",
+    "sourcePrice": 139200,
+    "rarity": "Divine",
+    "description": "The ultimate cosmetic masterpiece: outer rim cosmic fire, inner genesis portal, sacred ground sigils, and transcendent prismatic wake.",
+    "image": "assets/auras/aura-100.webp",
+    "price": 5000000000
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "World 1",
+    "stages": 50,
+    "image": "assets/worlds/world-1.png",
+    "unlock": "Available from the start"
+  },
+  {
+    "id": 2,
+    "name": "World 2",
+    "stages": 50,
+    "image": "assets/worlds/world-2.png",
+    "unlock": "Complete World 1"
+  },
+  {
+    "id": 3,
+    "name": "World 3",
+    "stages": 100,
+    "image": "assets/worlds/world-3.png",
+    "unlock": "Complete World 2"
+  }
+]

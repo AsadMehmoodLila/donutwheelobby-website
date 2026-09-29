@@ -1,0 +1,802 @@
+[
+  {
+    "id": "67",
+    "name": "67",
+    "rarity": "Common",
+    "price": 12000,
+    "income": 1,
+    "interval": 2
+  },
+  {
+    "id": "69",
+    "name": "69",
+    "rarity": "Uncommon",
+    "price": 30000,
+    "income": 1,
+    "interval": 2
+  },
+  {
+    "id": "AgarriniLaPallini",
+    "name": "Agarrini La Pallini",
+    "rarity": "Rare",
+    "price": 80000,
+    "income": 1,
+    "interval": 2
+  },
+  {
+    "id": "Alessio",
+    "name": "Alessio",
+    "rarity": "Epic",
+    "price": 220000,
+    "income": 1,
+    "interval": 2
+  },
+  {
+    "id": "AvocadiniAntilopini",
+    "name": "Avocadini Antilopini",
+    "rarity": "Legendary",
+    "price": 600000,
+    "income": 1,
+    "interval": 2
+  },
+  {
+    "id": "AvocadiniGuffo",
+    "name": "Avocadini Guffo",
+    "rarity": "Mythic",
+    "price": 1600000,
+    "income": 2,
+    "interval": 2
+  },
+  {
+    "id": "BalerinaCapucina",
+    "name": "Balerina Capucina",
+    "rarity": "Common",
+    "price": 31500,
+    "income": 2,
+    "interval": 2
+  },
+  {
+    "id": "BalerinoLololo",
+    "name": "Balerino Lololo",
+    "rarity": "Uncommon",
+    "price": 37000,
+    "income": 2,
+    "interval": 2
+  },
+  {
+    "id": "BambiniCrostini",
+    "name": "Bambini Crostini",
+    "rarity": "Rare",
+    "price": 80000,
+    "income": 3,
+    "interval": 2
+  },
+  {
+    "id": "BananitoDelfinito",
+    "name": "Bananito Delfinito",
+    "rarity": "Epic",
+    "price": 220000,
+    "income": 3,
+    "interval": 2
+  },
+  {
+    "id": "BanditoBobrito",
+    "name": "Bandito Bobrito",
+    "rarity": "Legendary",
+    "price": 600000,
+    "income": 4,
+    "interval": 2
+  },
+  {
+    "id": "Ben",
+    "name": "Ben",
+    "rarity": "Mythic",
+    "price": 1600000,
+    "income": 4,
+    "interval": 2
+  },
+  {
+    "id": "BlueberrinniOctopusini",
+    "name": "Blueberrinni Octopusini",
+    "rarity": "Common",
+    "price": 82800,
+    "income": 5,
+    "interval": 2
+  },
+  {
+    "id": "BombombiniGusini",
+    "name": "Bombombini Gusini",
+    "rarity": "Uncommon",
+    "price": 97200,
+    "income": 6,
+    "interval": 2
+  },
+  {
+    "id": "BonecaAmbalabu",
+    "name": "Boneca Ambalabu",
+    "rarity": "Rare",
+    "price": 114200,
+    "income": 7,
+    "interval": 2
+  },
+  {
+    "id": "BoomCroc",
+    "name": "Boom Croc",
+    "rarity": "Epic",
+    "price": 220000,
+    "income": 8,
+    "interval": 2
+  },
+  {
+    "id": "BopBopJunior",
+    "name": "Bop Bop Junior",
+    "rarity": "Legendary",
+    "price": 600000,
+    "income": 9,
+    "interval": 2
+  },
+  {
+    "id": "BopBopSenior",
+    "name": "Bop Bop Senior",
+    "rarity": "Mythic",
+    "price": 1600000,
+    "income": 10,
+    "interval": 2
+  },
+  {
+    "id": "BrrBicusDicus",
+    "name": "Brr Bicus Dicus",
+    "rarity": "Common",
+    "price": 217500,
+    "income": 12,
+    "interval": 2
+  },
+  {
+    "id": "BrrBrrPatapim",
+    "name": "Brr Brr Patapim",
+    "rarity": "Uncommon",
+    "price": 255500,
+    "income": 14,
+    "interval": 2
+  },
+  {
+    "id": "BurbalolliLulilolli",
+    "name": "Burbalolli Lulilolli",
+    "rarity": "Rare",
+    "price": 300100,
+    "income": 16,
+    "interval": 1
+  },
+  {
+    "id": "CachorritoMelonito",
+    "name": "Cachorrito Melonito",
+    "rarity": "Epic",
+    "price": 352500,
+    "income": 18,
+    "interval": 1
+  },
+  {
+    "id": "CactoHipopotamo",
+    "name": "Cacto Hipopotamo",
+    "rarity": "Legendary",
+    "price": 600000,
+    "income": 21,
+    "interval": 1
+  },
+  {
+    "id": "CappuccinoAssassino",
+    "name": "Cappuccino Assassino",
+    "rarity": "Mythic",
+    "price": 1600000,
+    "income": 24,
+    "interval": 1
+  },
+  {
+    "id": "CavalloVirtuoso",
+    "name": "Cavallo Virtuoso",
+    "rarity": "Common",
+    "price": 571400,
+    "income": 28,
+    "interval": 1
+  },
+  {
+    "id": "ChefCrabracadabra",
+    "name": "Chef Crabracadabra",
+    "rarity": "Uncommon",
+    "price": 671200,
+    "income": 32,
+    "interval": 1
+  },
+  {
+    "id": "ChicleteiraBicicleteira",
+    "name": "Chicleteira Bicicleteira",
+    "rarity": "Rare",
+    "price": 788400,
+    "income": 37,
+    "interval": 1
+  },
+  {
+    "id": "ChicleteirinaBicicleteirina",
+    "name": "Chicleteirina Bicicleteirina",
+    "rarity": "Epic",
+    "price": 926100,
+    "income": 43,
+    "interval": 1
+  },
+  {
+    "id": "ChillinChili",
+    "name": "Chillin Chili",
+    "rarity": "Legendary",
+    "price": 1087800,
+    "income": 49,
+    "interval": 1
+  },
+  {
+    "id": "ChimpanziniBananini",
+    "name": "Chimpanzini Bananini",
+    "rarity": "Mythic",
+    "price": 1600000,
+    "income": 57,
+    "interval": 1
+  },
+  {
+    "id": "DragonCannelloni",
+    "name": "Dragon Cannelloni",
+    "rarity": "Common",
+    "price": 1501000,
+    "income": 65,
+    "interval": 1
+  },
+  {
+    "id": "Drummer",
+    "name": "Drummer",
+    "rarity": "Uncommon",
+    "price": 1763200,
+    "income": 75,
+    "interval": 1
+  },
+  {
+    "id": "ElefantoCocofanto",
+    "name": "Elefanto Cocofanto",
+    "rarity": "Rare",
+    "price": 2071100,
+    "income": 86,
+    "interval": 1
+  },
+  {
+    "id": "EsokSekolah",
+    "name": "Esok Sekolah",
+    "rarity": "Epic",
+    "price": 2432800,
+    "income": 99,
+    "interval": 1
+  },
+  {
+    "id": "EspressoSignora",
+    "name": "Espresso Signora",
+    "rarity": "Legendary",
+    "price": 2857700,
+    "income": 114,
+    "interval": 1
+  },
+  {
+    "id": "FluriFlura",
+    "name": "Fluri Flura",
+    "rarity": "Mythic",
+    "price": 3356800,
+    "income": 132,
+    "interval": 1
+  },
+  {
+    "id": "FrigoCamelo",
+    "name": "Frigo Camelo",
+    "rarity": "Common",
+    "price": 3943100,
+    "income": 151,
+    "interval": 1
+  },
+  {
+    "id": "GanganzelliTrulala",
+    "name": "Ganganzelli Trulala",
+    "rarity": "Uncommon",
+    "price": 4631800,
+    "income": 174,
+    "interval": 1
+  },
+  {
+    "id": "GangsterFootera",
+    "name": "Gangster Footera",
+    "rarity": "Rare",
+    "price": 5440700,
+    "income": 200,
+    "interval": 1
+  },
+  {
+    "id": "Garamararam",
+    "name": "Garamararam",
+    "rarity": "Epic",
+    "price": 6390900,
+    "income": 231,
+    "interval": 1
+  },
+  {
+    "id": "GiraffaCelestre",
+    "name": "Giraffa Celestre",
+    "rarity": "Legendary",
+    "price": 7507000,
+    "income": 265,
+    "interval": 1
+  },
+  {
+    "id": "GlorboFruttodrillo",
+    "name": "Glorbo Fruttodrillo",
+    "rarity": "Mythic",
+    "price": 8818100,
+    "income": 305,
+    "interval": 1
+  },
+  {
+    "id": "GorilloWatermelondrillo",
+    "name": "Gorillo Watermelondrillo",
+    "rarity": "Common",
+    "price": 10358200,
+    "income": 351,
+    "interval": 1
+  },
+  {
+    "id": "GraipusMedussi",
+    "name": "Graipus Medussi",
+    "rarity": "Uncommon",
+    "price": 12167200,
+    "income": 403,
+    "interval": 1
+  },
+  {
+    "id": "HappyBananaCat",
+    "name": "Happy Banana Cat",
+    "rarity": "Rare",
+    "price": 14292200,
+    "income": 464,
+    "interval": 1
+  },
+  {
+    "id": "HappyBananaMeme",
+    "name": "Happy Banana Meme",
+    "rarity": "Epic",
+    "price": 16788300,
+    "income": 533,
+    "interval": 1
+  },
+  {
+    "id": "Illuminati",
+    "name": "Illuminati",
+    "rarity": "Legendary",
+    "price": 19720300,
+    "income": 613,
+    "interval": 1
+  },
+  {
+    "id": "JobJobJobSahur",
+    "name": "Job Job Job Sahur",
+    "rarity": "Mythic",
+    "price": 23164400,
+    "income": 705,
+    "interval": 1
+  },
+  {
+    "id": "KarkerkarKurkur",
+    "name": "Karkerkar Kurkur",
+    "rarity": "Common",
+    "price": 27210000,
+    "income": 811,
+    "interval": 1
+  },
+  {
+    "id": "KetchuruAndMusturu",
+    "name": "Ketchuru And Musturu",
+    "rarity": "Uncommon",
+    "price": 31962200,
+    "income": 932,
+    "interval": 1
+  },
+  {
+    "id": "KetupatKepat",
+    "name": "Ketupat Kepat",
+    "rarity": "Rare",
+    "price": 37544300,
+    "income": 1072,
+    "interval": 1
+  },
+  {
+    "id": "LaGrandeCombination",
+    "name": "La Grande Combination",
+    "rarity": "Epic",
+    "price": 44101300,
+    "income": 1232,
+    "interval": 1
+  },
+  {
+    "id": "LaVaccaSaturnoSaturnita",
+    "name": "La Vacca Saturno Saturnita",
+    "rarity": "Legendary",
+    "price": 51803400,
+    "income": 1417,
+    "interval": 1
+  },
+  {
+    "id": "Lerulerulerule",
+    "name": "Lerulerulerule",
+    "rarity": "Mythic",
+    "price": 60850700,
+    "income": 1629,
+    "interval": 1
+  },
+  {
+    "id": "LioneloCactuseli",
+    "name": "Lionelo Cactuseli",
+    "rarity": "Common",
+    "price": 71478100,
+    "income": 1873,
+    "interval": 1
+  },
+  {
+    "id": "LiriliLarila",
+    "name": "Lirili Larila",
+    "rarity": "Uncommon",
+    "price": 83961500,
+    "income": 2154,
+    "interval": 1
+  },
+  {
+    "id": "Los Tralalelitos",
+    "name": "Los  Tralalelitos",
+    "rarity": "Rare",
+    "price": 98625100,
+    "income": 2477,
+    "interval": 1
+  },
+  {
+    "id": "Madung",
+    "name": "Madung",
+    "rarity": "Epic",
+    "price": 115849700,
+    "income": 2848,
+    "interval": 1
+  },
+  {
+    "id": "Mateo",
+    "name": "Mateo",
+    "rarity": "Legendary",
+    "price": 136082500,
+    "income": 3274,
+    "interval": 1
+  },
+  {
+    "id": "Meowl",
+    "name": "Meowl",
+    "rarity": "Mythic",
+    "price": 159848800,
+    "income": 3764,
+    "interval": 1
+  },
+  {
+    "id": "NooMyExamine",
+    "name": "Noo My Examine",
+    "rarity": "Common",
+    "price": 187765900,
+    "income": 4328,
+    "interval": 1
+  },
+  {
+    "id": "NoobiniPizzanini",
+    "name": "Noobini Pizzanini",
+    "rarity": "Uncommon",
+    "price": 220558600,
+    "income": 4977,
+    "interval": 1
+  },
+  {
+    "id": "NuclearoDinosauro",
+    "name": "Nuclearo Dinosauro",
+    "rarity": "Rare",
+    "price": 259078500,
+    "income": 5722,
+    "interval": 1
+  },
+  {
+    "id": "NyanCat",
+    "name": "Nyan Cat",
+    "rarity": "Epic",
+    "price": 304325700,
+    "income": 6579,
+    "interval": 1
+  },
+  {
+    "id": "OdinDinDinDun",
+    "name": "Odin Din Din Dun",
+    "rarity": "Legendary",
+    "price": 357475100,
+    "income": 7564,
+    "interval": 1
+  },
+  {
+    "id": "OrangutiniAnanassini",
+    "name": "Orangutini Ananassini",
+    "rarity": "Mythic",
+    "price": 419907000,
+    "income": 8697,
+    "interval": 1
+  },
+  {
+    "id": "OrcaleroOrcala",
+    "name": "Orcalero Orcala",
+    "rarity": "Common",
+    "price": 493242400,
+    "income": 9999,
+    "interval": 1
+  },
+  {
+    "id": "Pakrahmatmamat",
+    "name": "Pakrahmatmamat",
+    "rarity": "Uncommon",
+    "price": 579385500,
+    "income": 11497,
+    "interval": 1
+  },
+  {
+    "id": "Pakrahmatmatina",
+    "name": "Pakrahmatmatina",
+    "rarity": "Rare",
+    "price": 680573300,
+    "income": 13219,
+    "interval": 1
+  },
+  {
+    "id": "PandacciniBananini",
+    "name": "Pandaccini Bananini",
+    "rarity": "Epic",
+    "price": 799433200,
+    "income": 15199,
+    "interval": 1
+  },
+  {
+    "id": "Pepe",
+    "name": "Pepe",
+    "rarity": "Legendary",
+    "price": 939051500,
+    "income": 17475,
+    "interval": 1
+  },
+  {
+    "id": "PipiKiwi",
+    "name": "Pipi Kiwi",
+    "rarity": "Mythic",
+    "price": 1103053800,
+    "income": 20092,
+    "interval": 1
+  },
+  {
+    "id": "PipiPotato",
+    "name": "Pipi Potato",
+    "rarity": "Common",
+    "price": 1295698500,
+    "income": 23101,
+    "interval": 1
+  },
+  {
+    "id": "PotHotspot",
+    "name": "Pot Hotspot",
+    "rarity": "Uncommon",
+    "price": 1521988000,
+    "income": 26560,
+    "interval": 1
+  },
+  {
+    "id": "QuesadillaCrocodila",
+    "name": "Quesadilla Crocodila",
+    "rarity": "Rare",
+    "price": 1787798200,
+    "income": 30538,
+    "interval": 1
+  },
+  {
+    "id": "RhinoToasterino",
+    "name": "Rhino Toasterino",
+    "rarity": "Epic",
+    "price": 2100031200,
+    "income": 35111,
+    "interval": 1
+  },
+  {
+    "id": "SalaminoPinguino",
+    "name": "Salamino Pinguino",
+    "rarity": "Legendary",
+    "price": 2466794700,
+    "income": 40370,
+    "interval": 1
+  },
+  {
+    "id": "SigmaBoy",
+    "name": "Sigma Boy",
+    "rarity": "Mythic",
+    "price": 2897612300,
+    "income": 46415,
+    "interval": 1
+  },
+  {
+    "id": "SkibidiToilet",
+    "name": "Skibidi Toilet",
+    "rarity": "Common",
+    "price": 3403670700,
+    "income": 53366,
+    "interval": 1
+  },
+  {
+    "id": "SmurfCat",
+    "name": "Smurf Cat",
+    "rarity": "Uncommon",
+    "price": 3998110500,
+    "income": 61359,
+    "interval": 1
+  },
+  {
+    "id": "StrawberrelliFlamingelli",
+    "name": "Strawberrelli Flamingelli",
+    "rarity": "Rare",
+    "price": 4696367300,
+    "income": 70548,
+    "interval": 1
+  },
+  {
+    "id": "StrawberryElephant",
+    "name": "Strawberry Elephant",
+    "rarity": "Epic",
+    "price": 5516572300,
+    "income": 81113,
+    "interval": 1
+  },
+  {
+    "id": "SvininaBombardino",
+    "name": "Svinina Bombardino",
+    "rarity": "Legendary",
+    "price": 6480023400,
+    "income": 93260,
+    "interval": 1
+  },
+  {
+    "id": "SwagSoda",
+    "name": "Swag Soda",
+    "rarity": "Mythic",
+    "price": 7611738100,
+    "income": 107226,
+    "interval": 1
+  },
+  {
+    "id": "TalpaDiFero",
+    "name": "Talpa Di Fero",
+    "rarity": "Common",
+    "price": 8941102900,
+    "income": 123284,
+    "interval": 1
+  },
+  {
+    "id": "TatatataSahur",
+    "name": "Tatatata Sahur",
+    "rarity": "Uncommon",
+    "price": 10502637000,
+    "income": 141747,
+    "interval": 1
+  },
+  {
+    "id": "TigerFruit",
+    "name": "Tiger Fruit",
+    "rarity": "Rare",
+    "price": 12336887800,
+    "income": 162975,
+    "interval": 1
+  },
+  {
+    "id": "TikTakSahur",
+    "name": "Tik Tak Sahur",
+    "rarity": "Epic",
+    "price": 14491484500,
+    "income": 187381,
+    "interval": 1
+  },
+  {
+    "id": "TimCheese",
+    "name": "Tim Cheese",
+    "rarity": "Legendary",
+    "price": 17022374400,
+    "income": 215443,
+    "interval": 1
+  },
+  {
+    "id": "TirilikalikaTirilikalako",
+    "name": "Tirilikalika Tirilikalako",
+    "rarity": "Mythic",
+    "price": 19995275700,
+    "income": 247707,
+    "interval": 1
+  },
+  {
+    "id": "TorrtuginniDragonfrutini",
+    "name": "Torrtuginni Dragonfrutini",
+    "rarity": "Common",
+    "price": 23487384500,
+    "income": 284803,
+    "interval": 1
+  },
+  {
+    "id": "TricTracBarabum",
+    "name": "Tric Trac Barabum",
+    "rarity": "Uncommon",
+    "price": 27589378500,
+    "income": 327454,
+    "interval": 1
+  },
+  {
+    "id": "TriplitoTralaleritos",
+    "name": "Triplito Tralaleritos",
+    "rarity": "Rare",
+    "price": 32407772300,
+    "income": 376493,
+    "interval": 1
+  },
+  {
+    "id": "TrippiTroppiTroppaTrippa",
+    "name": "Trippi Troppi Troppa Trippa",
+    "rarity": "Epic",
+    "price": 38067682500,
+    "income": 432876,
+    "interval": 1
+  },
+  {
+    "id": "Trippy",
+    "name": "Trippy",
+    "rarity": "Legendary",
+    "price": 44716077400,
+    "income": 497702,
+    "interval": 1
+  },
+  {
+    "id": "Trollface",
+    "name": "Trollface",
+    "rarity": "Mythic",
+    "price": 52525592400,
+    "income": 572236,
+    "interval": 1
+  },
+  {
+    "id": "TrulimeroTrulicina",
+    "name": "Trulimero Trulicina",
+    "rarity": "Common",
+    "price": 61699013400,
+    "income": 657933,
+    "interval": 1
+  },
+  {
+    "id": "YesMyExamine",
+    "name": "Yes My Examine",
+    "rarity": "Uncommon",
+    "price": 72474542000,
+    "income": 756463,
+    "interval": 1
+  },
+  {
+    "id": "ZibraZubraZibralini",
+    "name": "Zibra Zubra Zibralini",
+    "rarity": "Rare",
+    "price": 85131981000,
+    "income": 869749,
+    "interval": 1
+  },
+  {
+    "id": "Zoodle",
+    "name": "Zoodle",
+    "rarity": "Epic",
+    "price": 100000000000,
+    "income": 1000000,
+    "interval": 1
+  }
+]

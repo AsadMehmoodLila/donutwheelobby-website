@@ -1,0 +1,4 @@
+const search=document.querySelector('#catalogSearch'),rarity=document.querySelector('#catalogRarity'),sort=document.querySelector('#catalogSort'),grid=document.querySelector('#catalogGrid'),result=document.querySelector('#catalogResults');
+const original=[...grid.children];
+function update(){const q=search.value.trim().toLowerCase(),r=rarity.value;let cards=original.filter(card=>(!q||card.dataset.name.includes(q))&&(!r||card.dataset.rarity===r));if(sort.value==='name')cards.sort((a,b)=>a.dataset.name.localeCompare(b.dataset.name));if(sort.value==='price')cards.sort((a,b)=>Number(a.dataset.price)-Number(b.dataset.price));original.forEach(card=>card.hidden=true);cards.forEach(card=>{card.hidden=false;grid.append(card)});result.textContent=`Showing ${cards.length} of ${original.length}`}
+[search,rarity,sort].forEach(control=>control.addEventListener('input',update));

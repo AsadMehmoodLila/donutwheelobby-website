@@ -1,0 +1,18 @@
+[
+  {
+    "code": "FAILING",
+    "reward": "50K Coins"
+  },
+  {
+    "code": "TRYING",
+    "reward": "100K Coins"
+  },
+  {
+    "code": "WINNING",
+    "reward": "1 Spin"
+  },
+  {
+    "code": "DONUTFAM",
+    "reward": "100K Coins + 1 Spin"
+  }
+]
