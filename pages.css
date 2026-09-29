@@ -2,6 +2,7 @@
 .page-hero h1{max-width:1050px;margin-bottom:.2em}.page-hero p{max-width:760px;font-size:20px;font-weight:700}
 .prose-intro{max-width:1050px}.prose-intro p{font-size:19px}.prose-intro a{color:var(--deep);font-weight:900;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:3px}
 .catalog-page{padding-top:0}.catalog-page .card h2{font-size:25px;margin:.35em 0}.catalog-page [hidden]{display:none}.codes a,.guide a{font-weight:900;text-decoration:underline;text-underline-offset:3px}
+.guide .watch{color:var(--ink)}
 @media(max-width:1200px){header nav{gap:15px;font-size:15px}}
 @media(max-width:900px){.page-hero{padding-top:62px}}
 @media(max-width:520px){.page-hero{padding:52px 18px 38px}.page-hero p{font-size:17px}}
